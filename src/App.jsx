@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import  LeftPanel from './LeftPanel'
-import MainContent from '.src/MainContent'
+import MainContent from './MainContent'
 import RightPanel from './RightPanel'
 
 // The initial tweet objects that should be displayed
